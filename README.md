@@ -1,1 +1,1 @@
-# javascript-certificate
+# Interactivity with JavaScript Certificate
